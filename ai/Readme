@@ -1,0 +1,4 @@
+Everything in this package (ai) must have the following methods:
+
+public static void setPhaseTimes(PhaseTimes phaseTimes)
+public static void createTasks(Engine engine, World world, ProjectileFactory projectileFactory, Entity target, Vector2 position, Timers timers, Integer phase, ProjectileFiringComponent p)
